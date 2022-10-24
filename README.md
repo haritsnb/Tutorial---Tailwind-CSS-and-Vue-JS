@@ -1,2 +1,3 @@
-# Tutorial---Tailwind-CSS-and-Vue-JS
-Instal Tailwind CSS 3 Dengan Vue JS 3
+# Tutorial : Tailwind CSS 3 dan Vue JS 3
+Materi ini membahas mengenai bagaimana tahapan menginstall Tailwind CSS 3 dan Vue JS 3
+---
