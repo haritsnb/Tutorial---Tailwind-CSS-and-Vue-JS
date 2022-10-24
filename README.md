@@ -45,6 +45,7 @@ Jika Anda tidak yakin, cukup pilih `No` lalu tekan enter untuk saat ini. Setelah
 cd myproject-app
 ```
 
+
 ## Instal Packages dan Tailwind CSS kedalam Vue JS
 Setelah memastikan `comand line` anda berada didalam folder proyek `Vue 3` yang anda buat, selanjutnya menginstal Tailwind CSS dan `peer dependencies` melalui npm ke dalam proyek Vue 3 dengan perintah berikut
 ```
@@ -92,3 +93,5 @@ const app = createApp(App)
 app.use(router)
 app.mount('#app')
 ```
+
+👨🏻‍💻 Selesai... selamat anda sudah bisa menginstal Vue JS dan Tailwind CSS 👋😎👏😋🤪👍
