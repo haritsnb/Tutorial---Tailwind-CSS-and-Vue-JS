@@ -61,7 +61,7 @@ Tailwind CSS perlu mengetahui jenis ekstensi file dan letak file yang akan digun
 ```
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./index.html", "./src/**/*.{vue,js,ts}"],
+  content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {},
   },
