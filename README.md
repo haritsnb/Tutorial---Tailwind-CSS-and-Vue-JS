@@ -35,9 +35,8 @@ Perintah ini akan menginstal dan menjalankan `create-vue`, `project scaffolding 
 ✔️ Add Vue Router for Single Page Application development? … No / _Yes_
 ✔️ Add Pinia for state management? … _No_ / Yes
 ✔️ Add Vitest for Unit Testing? … _No_ / Yes
-✔️ Add an End-to-End Testing Solution? … _No_ / Yes
+✔️ Add an End-to-End Testing Solution? … No
 ✔️ Add ESLint for code quality? … _No_ / Yes
-✔️ Add Prettier for code formatting? … No / _Yes_
 ```
 
 Jika Anda tidak yakin, cukup pilih `No` lalu tekan enter untuk saat ini. Setelah proyek dibuat, kita akan masuk kedalam folder proyek kita menggunakan `comand line` dengan perintah dibawah dan tekan `Enter`
