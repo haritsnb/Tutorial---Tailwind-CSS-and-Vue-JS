@@ -36,7 +36,7 @@ Perintah ini akan menginstal dan menjalankan `create-vue`, `project scaffolding 
 ✔️ Add Pinia for state management? … _No_ / Yes
 ✔️ Add Vitest for Unit Testing? … _No_ / Yes
 ✔️ Add an End-to-End Testing Solution? … _No_ / Yes
-✔️ Add ESLint for code quality? … No / _Yes_
+✔️ Add ESLint for code quality? … _No_ / Yes
 ✔️ Add Prettier for code formatting? … No / _Yes_
 ```
 
